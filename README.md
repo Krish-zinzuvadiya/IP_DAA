@@ -1,4 +1,4 @@
-# 📘 Activity Selection Algorithm Visualizer
+# 📘 Activity Selection Problem using Greedy Method
 ### Greedy Algorithm Implementation using React + Flask
 
 ![Project Banner](https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1645012881183-Article_246.png)
@@ -73,13 +73,14 @@ Step Visualization + Timeline Rendering
 ## 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/activity-selection-visualizer.git
-cd activity-selection-visualizer
+git clone https://github.com/Krish-zinzuvadiya/IP_DAA.git
+cd IP_DAA
 ```
 ## 2️⃣ Backend Setup
 
 Install dependencies:
 ```bash
+cd backend
 pip install flask flask-cors
 ```
 Run the server:
