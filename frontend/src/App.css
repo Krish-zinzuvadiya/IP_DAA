@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  padding: 30px;
+  font-family: Arial;
+}
+
+.timeline {
+  margin-top: 40px;
+}
+
+.activity-box {
+  margin: 15px auto;
+  padding: 12px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background: lightblue;
+  font-weight: bold;
+}
