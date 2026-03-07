@@ -75,7 +75,7 @@ export default function ActivityForm({ setResult }) {
     }
 
     try {
-      const res = await axios.post("http://127.0.0.1:5000/run", {
+      const res = await axios.post("https://ip-daa-1.onrender.com/run", {
         activities
       });
 
